@@ -1,8 +1,27 @@
 aid: navro
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/navro.png
 name: Navro
-description: 'Navro is a company surfaced as a portfolio company of bain-capital-ventures and added to
-  the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Navro (formerly Paytrix) is a London-based payments curation platform that lets large
+  businesses move money globally through a single contract and API integration. Rather than stitching
+  together a patchwork of banks and payment providers, Navro routes each payment via the right rail,
+  currency and compliance model, executing millions of payouts across 140+ currencies and 200+ regions.
+  Its products span Navro Workforce (global payroll, contractor and pension payouts), Navro Life
+  (cross-border pensions), Navro Digital (payments for digital platforms and enterprises) and Navro
+  Capital (international fund flows). Clients integrate once via the Navro API or use the no-code Navro
+  Hub portal for real-time payment visibility and reporting. Founded by Aran Brown (CEO) and Eddie
+  Harrison, Navro operates from London with offices in Ireland and the United States, and is authorised
+  by the UK Financial Conduct Authority, the Central Bank of Ireland and FinCEN in the US.'
 url: https://raw.githubusercontent.com/api-evangelist/navro/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Fintech
+- Payments
+- Cross-Border Payments
+- Payments Infrastructure
+- Global Payroll
+- Foreign Exchange
+- Electronic Money
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,30 @@ maintainers:
 common:
 - type: Website
   url: https://navro.com/
+- type: About
+  url: https://navro.com/about
+- type: Blog
+  url: https://navro.com/knowledge-base
+- type: Support
+  url: https://navro.com/contact
+- type: TermsOfService
+  url: https://navro.com/regulations
+- type: PrivacyPolicy
+  url: https://navro.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/navropayments/
+- type: TrustCenter
+  url: https://navro.com/security
+- type: Compliance
+  url: https://navro.com/security
+- type: DomainSecurity
+  url: security/navro-domain-security.yml
+- type: LLMsTxt
+  url: llms/navro-llms.txt
+- type: WellKnown
+  url: well-known/navro-well-known.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

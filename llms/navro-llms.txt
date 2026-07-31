@@ -1,0 +1,30 @@
+# Navro
+
+> Navro (formerly Paytrix) is a London-based payments curation platform that lets large businesses move money globally through a single contract and API integration. Rather than stitching together a patchwork of banks and payment providers, Navro routes each payment via the right rail, currency and compliance model, executing millions of payouts across 140+ currencies and 200+ regions. It is authorised by the UK FCA, the Central Bank of Ireland and FinCEN in the US.
+
+Note: As of this profile, Navro exposes no public developer portal, API reference, or OpenAPI definition. Integration is via the Navro API under contract and the no-code Navro Hub portal; developer documentation is gated. The links below are the company's public surface.
+
+## Solutions
+- [Navro Workforce](https://navro.com/solutions/navro-workforce): Global payroll, contractor and pension payouts
+- [Navro Life](https://navro.com/solutions/navro-life): Cross-border pension payments
+- [Navro Digital](https://navro.com/solutions/navro-digital): Curated global payments for digital platforms and enterprises
+- [Navro Capital](https://navro.com/solutions/navro-capital): International fund flows
+- [Product overview](https://navro.com/product): The payments curation platform
+
+## Company
+- [Website](https://navro.com/): Company home
+- [About](https://navro.com/about): About Navro
+- [Knowledge Base](https://navro.com/knowledge-base): Articles and guides
+- [Contact](https://navro.com/contact): Support and sales contact
+- [Careers](https://navro.com/careers): Open roles
+
+## Trust & Compliance
+- [Security](https://navro.com/security): ISO/IEC 27001:2022 certified ISMS; SOC 2 Type I & Type II; GDPR
+- [Regulations](https://navro.com/regulations): Regulatory authorisations (UK FCA, Central Bank of Ireland, FinCEN)
+- [Privacy Policy](https://navro.com/privacy-policy)
+- [Data Protection Policy](https://navro.com/data-protection-policy)
+
+## Regulatory & Location
+- Authorised by the UK Financial Conduct Authority, the Central Bank of Ireland, and FinCEN (US)
+- Offices in London (HQ), Ireland, and the United States
+- Founders: Aran Brown (CEO), Eddie Harrison

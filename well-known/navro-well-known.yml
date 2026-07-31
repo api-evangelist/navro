@@ -1,0 +1,18 @@
+generated: '2026-07-20'
+method: searched
+source: live probes of https://navro.com/.well-known/*
+host: https://navro.com
+note: >-
+  Navro publishes no /.well-known discovery surface. Every probed path returned
+  404. Absence is valid recorded data; re-probe on a later pass.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
